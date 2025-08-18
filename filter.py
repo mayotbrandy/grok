@@ -37,6 +37,3 @@ if __name__ == "__main__":
     filter_unique_links()
     else:
         print("No new unique links found")
-
-if __name__ == "__main__":
-    filter_unique_links()
