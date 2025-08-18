@@ -30,11 +30,11 @@ def filter_unique_links():
         print("New unique links found:")
         for link in unique_links:
             print(link)
-        
-        # Update store.txt with new links
-        with open(store_path, 'a') as file:
-            for link in unique_links:
-                file.write(link + '\n')
+    else:
+        print("No new unique links found")
+
+if __name__ == "__main__":
+    filter_unique_links()
     else:
         print("No new unique links found")
 
