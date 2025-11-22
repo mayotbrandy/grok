@@ -6,7 +6,7 @@ activar.com
 wellsconcrete.com  
 nvent.com  
 johnsonscreens.com  
-erico.com (nvent.com)  
+erico.com  
 mcneilussteel.com  
 umicos.com  
 xerxes.com  
@@ -599,3 +599,4 @@ evapco.com
 starkey.com  
 contechengineered.com
 pentair.com
+nvent.com
